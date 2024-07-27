@@ -2,6 +2,10 @@
 
  ![Sistema en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green) ![Static Badge](https://img.shields.io/badge/Version-1.1.0-red)
 
+Para ejecutar el sistema, debes poner:
+
+```npm install react```
+
 ##Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
