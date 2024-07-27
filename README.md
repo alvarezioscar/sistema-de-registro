@@ -6,6 +6,8 @@ Para ejecutar el sistema, debes poner:
 
 ```npm install react```
 
+Sistema de Registro 2
+
 ##Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
